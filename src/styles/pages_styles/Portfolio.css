@@ -1,0 +1,48 @@
+.portfolio-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.recipeChampion {
+    background-image: url(../../images/RecipeChamp.png);
+    background-size: cover;
+    background-position: center;
+    width: 40vw;
+    height: 40vh;
+}
+.ubiquitousHappiness {
+    background-image: url(../../images/Project2Holder.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40vw;
+    height: 40vh;
+}
+.project3 {
+    background-image: url(../../images/Project2Holder.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40vw;
+    height: 40vh;
+}
+.project4 {
+    background-image: url(../../images/Project2Holder.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40vw;
+    height: 40vh;
+}
+.project5 {
+    background-image: url(../../images/Project2Holder.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40vw;
+    height: 40vh;
+}
+.project6 {
+    background-image: url(../../images/Project2Holder.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40vw;
+    height: 40vh;
+}

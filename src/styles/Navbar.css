@@ -1,0 +1,33 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border-bottom: 3px solid black;
+}
+
+h2 {
+  padding: 1rem;
+}
+.navbar {
+  height: 60px;
+}
+
+.navbar a {
+
+  font-size: 1.3rem;
+  text-decoration: none;
+  margin: 5px;
+  line-height: 3;
+}
+
+.nav-link {
+  color: black;
+}
+
+.active {
+  color: white;
+  background: black;
+}
+
+

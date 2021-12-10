@@ -1,0 +1,20 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heroImage {
+    margin-top: 10vh;
+    background-image: url(../../images/profilepic.png);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 50%;
+}
+
+.text-container {
+    width: 20vw;
+    padding-left: 1vw;
+}
